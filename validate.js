@@ -1,5 +1,5 @@
 function validateform(){
-		var name=document.registration.username.value;
+		var username=document.registration.username.value;
 		var password=document.registration.password.value;
 		if(username==null || username=="")
 		{
